@@ -7,7 +7,7 @@ const Header = () => {
     return (
         <header className="">
             <div className='flex justify-end gap-[10%] pr-[16%] my-[30px]'>
-                    <Link to="/" >
+                    <Link to="/Home" >
                         <img src="public/image 5.png" alt="" />
                     </Link>
 
