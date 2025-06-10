@@ -1,5 +1,6 @@
 import React from 'react'
 import Header from '../components/Header'
+import Footer from '../components/Footer'
 
 const Brand = () => {
   return (
@@ -8,6 +9,7 @@ const Brand = () => {
         Brand Page
 
         <h2>Azim Page</h2>
+        <Footer/>
     </div>
   )
 }
