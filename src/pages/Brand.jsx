@@ -41,6 +41,7 @@ const Brand = () => {
   };
 
   return (
+
     <div>
       <Header />
 
@@ -195,3 +196,6 @@ const Brand = () => {
 };
 
 export default Brand;
+
+
+
