@@ -197,13 +197,5 @@ const Brand = () => {
 
 export default Brand;
 
-    <>
-      <Header />
-      <div>Brand azim page</div>
-      <Footer />
-    </>
-  )
-}
 
-export default Brand
 
