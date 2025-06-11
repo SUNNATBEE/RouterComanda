@@ -26,7 +26,9 @@ const Footer = () => {
                         <li><a className='text-[15px] text-gray-700 font-mono' href="">Политика конфиденциальности</a></li>
                         <li><a className='text-[15px] text-gray-700 font-mono' href="">Контакты</a></li>
                     </ul>
-                    <ul>ПОДПИСАТЬСЯ НА НОВОСТИ И АКЦИИ</ul>
+                    <ul><li>ПОДПИСАТЬСЯ НА НОВОСТИ И АКЦИИ</li>
+                    <li><input className='w-[175px] h-[43px] to-gray-500 border bg-white text-center' placeholder='E-MAIL' type="text" /> <button className='bg-yellow-200 w-[75px] h-[43px] '>SEND</button></li>
+                    </ul>
                     </div>
                     
                 </div>
