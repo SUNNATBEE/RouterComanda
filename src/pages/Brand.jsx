@@ -46,7 +46,7 @@ const Brand = () => {
       <Header />
 
       {/* Top Section with Background */}
-      <div className="relative w-screen min-h-screen overflow-hidden">
+      <div className="relative w-[100%] min-h-screen overflow-hidden">
         <img
           src={BackgroundImg}
           alt="Background"
@@ -115,7 +115,7 @@ const Brand = () => {
         </div>
 
         {/* Content */}
-        <div className="relative z-10 min-h-screen flex items-center justify-center px-4 py-12">
+        <div className="relative z-10 min-h-screen flex items-center justify-center px-4 py-10">
           <div className="text-center text-white max-w-4xl mx-auto">
             {/* Main Heading */}
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-6 leading-tight">
