@@ -4,13 +4,11 @@ import Footer from '../components/Footer'
 
 const Brand = () => {
   return (
-    <div>
-      <Header/>
-        Brand Page
-
-        <h2>Azim Page</h2>
-        <Footer/>
-    </div>
+    <>
+      <Header />
+      <div>Brand azim page</div>
+      <Footer />
+    </>
   )
 }
 
